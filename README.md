@@ -8,10 +8,10 @@
 gndedesmu/gndedesmu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# MSDS 6306: Doing Data Science - Case Study 01
+# MSDS 6306: Doing Data Science.
 
 ## Group Members
-- Ndede, Migot
+- Ndede, Migot G.
 
 ### Introduction
 
