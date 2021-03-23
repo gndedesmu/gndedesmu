@@ -12,11 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Introduction
 
-We are going to create a website to highlight your work in this class!  And hopefully / potentially highlight your work throughout your time as a student and hopefully / potentially throughout your career!  
-
-
-### The Highlights
-We are going to create a website to highlight our work in this class!  Hopefully / potentially highlight your work throughout your time as a student and hopefully / potentially throughout your career!  
+We are going to create a website to highlight your work in this class!  Hopefully and potentially highlight our work throughout your time as a student, hopefully and potentially throughout our career!  
 
 
 ### Activity Three: Create a Welcome Tab  
@@ -32,7 +28,6 @@ We are going to create a website to highlight our work in this class!  Hopefully
         + `Your Interests.
         + `Where You Work.
         + `Where you went to school.
-
 
 - `Again, it is not required to add a lot of information to this page, if you prefer to keep your information private, just make up a name and information.
 
