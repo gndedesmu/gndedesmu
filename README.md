@@ -10,9 +10,6 @@ You can click the Preview link to take a look at your changes.
 --->
 # MSDS 6306: Doing Data Science.
 
-## Group Members
-- Ndede, Migot G.
-
 ### Introduction
 
 We are going to create a website to highlight your work in this class!  And hopefully / potentially highlight your work throughout your time as a student and hopefully / potentially throughout your career!  
